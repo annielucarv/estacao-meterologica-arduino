@@ -16,3 +16,5 @@ Foram usados os seguintes componentes eletrônicos para desenvolvimento do proje
 - Push-button (chave botão);
 - Display LCD 16x2;
 - Jumpers para ligação;
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/annielucarv/estacao-meterologica-arduino/blob/main/esquema-do-circuito.jpg))
